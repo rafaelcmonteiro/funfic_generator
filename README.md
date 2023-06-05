@@ -15,9 +15,26 @@ To learn more about the best prictices of Python and Django I'm goig to use the 
 For Django convention and best practice I'll be using a StudyGyann article about Django Best Practices, you can read it [here](https://studygyaan.com/django/best-practice-to-structure-django-project-directories-and-files#:~:text=The%20way%20I%20like%20to,content%20in%20the%20media%20folder.&text=If%20playback%20doesn't%20begin%20shortly%2C%20try%20restarting%20your%20device.).
 
 
-## Software Design
+# Architecture
 
-![https://github.com/rafaelcmonteiro/movie_mania/blob/main/fanfic_generator.png?raw=true](fanfic_generator.png)
+![Architecture](https://raw.githubusercontent.com/rafaelcmonteiro/movie_mania/main/fanfic_generator.png)
+
+# TODO
+
+Now that we decided how our architecture will look alike at the end of this project, we have to start a MPV/Prototype.
+
+## Prototype/MVP
+
+- [ ] Create a [OPEN AI KEY](https://platform.openai.com/docs/api-reference/authentication), to interact with chatGPT at.
+- [ ] Use any software like Postman to make some request to the API, use the [API DOC](https://platform.openai.com/docs/api-reference/chat)
+- [ ] Create a sample code that use a name of a movie and get from GPT chart the following. 
+
+Exemple:
+
+- "Can you make a fanfic about guardian of the galary vol.3"
+- "Now, make it as if were a terror history"
+
+After you receive the answer, you can store it in a file, and that will do.
 
 ## Frameworks and Tools
 
