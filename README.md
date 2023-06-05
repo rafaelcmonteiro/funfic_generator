@@ -1,4 +1,4 @@
-# Movie Mania
+# FunFic Generator with ChartGPT
 
 This project has the purpose of learning Django and get more familiarity with python3, API consumption and dealing with data. 
 
