@@ -17,7 +17,7 @@ For Django convention and best practice I'll be using a StudyGyann article about
 
 ## Software Design
 
-![https://github.com/rafaelcmonteiro/movie_mania/blob/main/FanFic%20GPT.png](design.png)
+![fanfic_generator.png](design.png)
 
 ## Frameworks and Tools
 
