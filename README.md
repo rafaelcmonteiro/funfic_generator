@@ -14,6 +14,11 @@ To learn more about the best prictices of Python and Django I'm goig to use the 
 
 For Django convention and best practice I'll be using a StudyGyann article about Django Best Practices, you can read it [here](https://studygyaan.com/django/best-practice-to-structure-django-project-directories-and-files#:~:text=The%20way%20I%20like%20to,content%20in%20the%20media%20folder.&text=If%20playback%20doesn't%20begin%20shortly%2C%20try%20restarting%20your%20device.).
 
+
+## Software Design
+
+![https://github.com/rafaelcmonteiro/movie_mania/blob/main/FanFic%20GPT.png](design.png)
+
 ## Frameworks and Tools
 
 |Name |Version|
