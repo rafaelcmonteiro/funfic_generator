@@ -23,7 +23,7 @@ For Django convention and best practice I'll be using a StudyGyann article about
 
 Now that we decided how our architecture will look alike at the end of this project, we have to start a MPV/Prototype.
 
-## Prototype/MVP
+## MVP/Prototype
 
 - [ ] Create a [OPEN AI KEY](https://platform.openai.com/docs/api-reference/authentication), to interact with chatGPT at.
 - [ ] Use any software like Postman to make some request to the API, use the [API DOC](https://platform.openai.com/docs/api-reference/chat)
@@ -35,6 +35,15 @@ Exemple:
 - "Now, make it as if were a terror history"
 
 After you receive the answer, you can store it in a file, and that will do.
+
+## Next Steps
+
+The next, will be the heavier part of the job. 
+- Interact with any source of movie names can be MDBAPI or MovieDB.
+- Get a JSON with the best movies of all time, you can make a code to get that list from the API, or just set a list by yourself.
+- Show a sample HTML with the list of movies and redirect it, when a name is clicked, to a page with a random generated funfic by chart GPT.
+
+After that feel free to create more...
 
 ## Frameworks and Tools
 
