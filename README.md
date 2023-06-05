@@ -4,9 +4,8 @@ This project has the purpose of learning Django and get more familiarity with py
 
 ## Theme
 
-The theme of this project is Movies, so we will consum data from 
-[TheMoviedb](https://www.themoviedb.org/) and bring this data to our own local DataBase and make it valuable for us. 
-
+The main idea of this project is to make FunFic based on movies, so we will consum data from 
+[TheMoviedb](https://www.themoviedb.org/) and use this data to create a site where people can generate a fanfic, behind the scenes our API will use OPENAI API to create this for us and after that show that to the user. 
 
 ## About the structure of this project
 
